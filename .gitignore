@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时数据（AstrBot 的 data/plugin_data/<插件名>/ 才是真正的存放位置）
+manual_songs.json
+manual_pending.json
+manual_charts.json
+official_aliases.json
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
